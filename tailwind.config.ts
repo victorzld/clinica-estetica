@@ -8,10 +8,9 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+      backgroundImage: {
+        'hero': "url('../../public/assets/image1.jpg')"
+      }
     },
   },
   plugins: [],
