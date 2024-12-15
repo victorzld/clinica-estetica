@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function Contact() {
 
-    const phone = 27996997969
+    const phone = ''
 
     return (
         <section id='contact' className="py-14 bg-primary bg-zinc-950 text-white">
