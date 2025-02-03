@@ -8,6 +8,10 @@
 
 ## 📌 Sobre a nossa aplicação
 
+![Image](https://github.com/user-attachments/assets/3c16f165-781d-41b3-9606-52f6a1a341ba)
+![Image](https://github.com/user-attachments/assets/ccc8f257-248e-4aca-be4d-cf1a87313823)
+![Image](https://github.com/user-attachments/assets/7312bc5a-ed20-4b13-bcde-f15c2aae5ab2)
+
 - <a href="https://www.gabriellycapelini.com.br">Visite a aplicação</a>
 
 A aplicação apresenta serviços de estética, facial e corporal, oferecidos pela profissional.
